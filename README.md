@@ -1,6 +1,7 @@
 # `MLBB Hero Quiz`
 A React Project to entertain user about guessing heroes in MLBB games with some clues.
 Clues: Release Year, Role, Region (lore), and Lane. (This may not relevant (last edit was August 2024)).
+Deployed in netlify: https://mlbbquiz.netlify.app/
 
 # Preview
 <img width="2536" height="1359" alt="Screenshot 2025-09-05 185944" src="https://github.com/user-attachments/assets/7e8790e0-a619-4b63-bfb8-77c34433cf80" />
