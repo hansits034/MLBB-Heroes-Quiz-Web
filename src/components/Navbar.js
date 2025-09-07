@@ -35,7 +35,7 @@ const Navbar = ({ setGameMode }) => {
           <a href="https://www.tiktok.com/" target="_blank" rel="noopener noreferrer">
             <img src={tiktok} alt="TikTok" className="icon" />
           </a>
-          <a href="https://ko-fi.com/" target="_blank" rel="noopener noreferrer">
+          <a href="https://ko-fi.com/mlbbq" target="_blank" rel="noopener noreferrer">
             <img src={kofi} alt="Ko-fi" className="icon" />
           </a>
         </div>

@@ -71,7 +71,7 @@ function App() {
       setStatus("Congratulations! You guessed it correctly!");
       setGameOver(true);
     } else if (attempts.length >= 6) {
-      setStatus("Game Over, You Failed to Guess The Character!");
+      setStatus("Game Over, You Failed to Guess The Character!\nThe Hero Was " + targetCharacter.nama);
       setGameOver(true);
     }
   };
