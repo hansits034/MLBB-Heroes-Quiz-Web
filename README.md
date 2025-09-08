@@ -1,6 +1,25 @@
 # `MLBB Hero Quiz`
 A React Project to entertain user about guessing heroes in MLBB games with some clues.
-Clues: Release Year, Role, Region (lore), and Lane. (This may not relevant (last edit was August 2024)).
+Clues: Release Year, Role, Region (lore), and Lane.
+
+## How to Play  
+
+You have **7 attempts** to guess the target hero. After each guess, clues will appear to guide you:
+
+### Color Hints
+- 🟥 **Gray background** → Completely incorrect.  
+- 🟨 **Yellow background** → Partially correct (applies only to *role* and *lane*).  
+- 🟩 **Green background** → Correct for that category.  
+
+### Release Year Hints
+- **`> (year)`** → The target hero was released *after* this hero.  
+- **`< (year)`** → The target hero was released *before* this hero.  
+- **`>> (year)`** → The target hero was released *much later* (at least 30 heroes after).  
+- **`<< (year)`** → The target hero was released *much earlier* (at least 30 heroes before).  
+
+## Objective  
+Use the given clues to correctly identify the target hero before running out of **7 guesses**. 
+
 Deployed in netlify: https://mlbbquiz.netlify.app/
 
 # Preview
