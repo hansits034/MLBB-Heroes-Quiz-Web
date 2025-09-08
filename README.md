@@ -7,7 +7,7 @@ Clues: Release Year, Role, Region (lore), and Lane.
 You have **7 attempts** to guess the target hero. After each guess, clues will appear to guide you:
 
 ### Color Hints
-- 🟥 **Gray background** → Completely incorrect.  
+- ⬜ **Gray background** → Completely incorrect.  
 - 🟨 **Yellow background** → Partially correct (applies only to *role* and *lane*).  
 - 🟩 **Green background** → Correct for that category.  
 
