@@ -20,6 +20,10 @@ You have **7 attempts** to guess the target hero. After each guess, clues will a
 ## Objective  
 Use the given clues to correctly identify the target hero before running out of **7 guesses**. 
 
+## Data Source  
+All hero data used in this game is based on [WikiMLBB]([https://www.wikimlbb.com](https://mobile-legends.fandom.com/wiki/List_of_heroes)).  
+
+## Try Now!!
 Deployed in netlify: https://mlbbquiz.netlify.app/
 
 # Preview
